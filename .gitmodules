@@ -1,0 +1,4 @@
+[submodule "flask-mememama"]
+	path = flask-mememama
+	url = https://github.com/mahfuz110244/flask-mememama.git
+	branch = master
